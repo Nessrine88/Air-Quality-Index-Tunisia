@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dffd880.css",
+    "main.js": "/static/js/main.a765164e.js",
+    "static/media/airQTn.png": "/static/media/airQTn.7c9b27d021fd85467ded.png",
+    "index.html": "/index.html",
+    "main.6dffd880.css.map": "/static/css/main.6dffd880.css.map",
+    "main.a765164e.js.map": "/static/js/main.a765164e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dffd880.css",
+    "static/js/main.a765164e.js"
+  ]
+}
