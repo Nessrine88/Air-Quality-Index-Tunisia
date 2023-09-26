@@ -27,7 +27,7 @@ const state = [
 ];
 
 const baseUrl = 'http://api.openweathermap.org/geo/1.0/direct?';
-const apiKey = 'da5d82eee7c25e85e958368a9ea19ae9';
+const apiKey = '25db9cb405c77623f4730d817d5c97ba';
 export const fetchCountries = createAsyncThunk('countries/fetchCountries', async () => {
   try {
     const countryDataArray = await Promise.all(
